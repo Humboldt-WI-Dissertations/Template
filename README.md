@@ -12,7 +12,7 @@
 
 [Insert here a figure explaining your approach or main results]
 
-![results](/SMART_HOME_N_ENERGY/behavioural_theories/Plots/AverageEnergyConservationIntention.png)
+![results](/results.png)
 
 ## Table of Content
 
