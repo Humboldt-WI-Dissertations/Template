@@ -12,7 +12,7 @@
 
 [Insert here a figure explaining your approach or main results]
 
-![results](/results.png)
+![results](/result.png)
 
 ## Table of Content
 
